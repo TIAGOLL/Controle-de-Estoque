@@ -1,1 +1,1 @@
-#Um programa criado com a intenção de controlar algum estoque
+#Um programa criado com a intenção de controlar estoques
